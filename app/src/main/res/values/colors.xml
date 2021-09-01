@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#EFEFEF</color>
+    <color name="purple_500">#AEAEAE</color>
+    <color name="purple_700">#EFEFEF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fashion -->
+    <!-- palette1 -->
+    <color name="_1fashion">#0442BF</color>
+    <color name="_2fashion">#048ABF</color>
+    <color name="_3fashion">#8C583A</color>
+    <color name="_4fashion">#D99E89</color>
+    <color name="_5fashion">#A62E2E</color>
+
+    <!-- palette2 -->
+    <color name="_6fashion">#687B8C</color>
+    <color name="_7fashion">#AEB7BF</color>
+    <color name="_8fashion">#261615</color>
+    <color name="_9fashion">#732929</color>
+    <color name="_10fashion">#8C4949</color>
+
+    <!-- palette3 -->
+    <color name="_11fashion">#A64E55</color>
+    <color name="_12fashion">#D9A38F</color>
+    <color name="_13fashion">#A66151</color>
+    <color name="_14fashion">#A67C72</color>
+    <color name="_15fashion">#59322E</color>
+
+    <!-- palette4 -->
+    <color name="_16fashion">#D9C5C9</color>
+    <color name="_17fashion">#BFBA9F</color>
+    <color name="_18fashion">#D9985F</color>
+    <color name="_19fashion">#733D29</color>
+    <color name="_20fashion">#A65341</color>
+
+    <!-- palette5 -->
+    <color name="_21fashion">#595646</color>
+    <color name="_22fashion">#F29422</color>
+    <color name="_23fashion">#401F14</color>
+    <color name="_24fashion">#A67360</color>
+    <color name="_25fashion">#D9A38F</color>
+
+    <!-- palette6 -->
+    <color name="_26fashion">#010D26</color>
+    <color name="_27fashion">#7AACBF</color>
+    <color name="_28fashion">#F2B279</color>
+    <color name="_29fashion">#BF9075</color>
+    <color name="_30fashion">#59352D</color>
+
+    <!-- Graphic Design -->
+    <!-- palette1 -->
+    <color name="_1graphicDesign">#260104</color>
+    <color name="_2graphicDesign">#025949</color>
+    <color name="_3graphicDesign">#F2CB05</color>
+    <color name="_4graphicDesign">#F29F05</color>
+    <color name="_5graphicDesign">#F2BBA7</color>
+
+    <!-- palette2 -->
+    <color name="_6graphicDesign">#1A1859</color>
+    <color name="_7graphicDesign">#F2E205</color>
+    <color name="_8graphicDesign">#F2CB05</color>
+    <color name="_9graphicDesign">#F2DD72</color>
+    <color name="_10graphicDesign">#D9D9D9</color>
+
+    <!-- palette3 -->
+    <color name="_11graphicDesign">#56BFA1</color>
+    <color name="_12graphicDesign">#D9BCA3</color>
+    <color name="_13graphicDesign">#D9583B</color>
+    <color name="_14graphicDesign">#F22F1D</color>
+    <color name="_15graphicDesign">#D94A3D</color>
+
+    <!-- palette4 -->
+    <color name="_16graphicDesign">#2458BF</color>
+    <color name="_17graphicDesign">#8ED91E</color>
+    <color name="_18graphicDesign">#F2BB13</color>
+    <color name="_19graphicDesign">#F2A413</color>
+    <color name="_20graphicDesign">#D9D9D9</color>
+
+    <!-- palette5 -->
+    <color name="_21graphicDesign">#034001</color>
+    <color name="_22graphicDesign">#218C03</color>
+    <color name="_23graphicDesign">#8EF229</color>
+    <color name="_24graphicDesign">#F2F2F2</color>
+    <color name="_25graphicDesign">#A6A6A6</color>
+
+    <!-- palette6 -->
+    <color name="_26graphicDesign">#F291BF</color>
+    <color name="_27graphicDesign">#ADD9C0</color>
+    <color name="_28graphicDesign">#F2CB05</color>
+    <color name="_29graphicDesign">#F2A516</color>
+    <color name="_30graphicDesign">#F21905</color>
+
+    <!-- Illustration -->
+    <!-- palette1 -->
+    <color name="_1illustration">#F2F2F2</color>
+    <color name="_2illustration">#A6A6A6</color>
+    <color name="_3illustration">#595959</color>
+    <color name="_4illustration">#262626</color>
+    <color name="_5illustration">#0D0D0D</color>
+
+    <!-- palette2 -->
+    <color name="_6illustration">#7D848C</color>
+    <color name="_7illustration">#979FA6</color>
+    <color name="_8illustration">#21A6A6</color>
+    <color name="_9illustration">#730202</color>
+    <color name="_10illustration">#BF3030</color>
+
+    <!-- palette3 -->
+    <color name="_11illustration">#262001</color>
+    <color name="_12illustration">#73641D</color>
+    <color name="_13illustration">#D97904</color>
+    <color name="_14illustration">#F2D7B6</color>
+    <color name="_15illustration">#8C3420</color>
+
+    <!-- palette4 -->
+    <color name="_16illustration">#0622BF</color>
+    <color name="_17illustration">#268C3F</color>
+    <color name="_18illustration">#F2CB05</color>
+    <color name="_19illustration">#F24C27</color>
+    <color name="_20illustration">#F2F2F2</color>
+
+    <!-- palette5 -->
+    <color name="_21illustration">#3A3D40</color>
+    <color name="_22illustration">#878A8C</color>
+    <color name="_23illustration">#212621</color>
+    <color name="_24illustration">#0C0D0C</color>
+    <color name="_25illustration">#D7D9D2</color>
+
+    <!-- palette6 -->
+    <color name="_26illustration">#618C64</color>
+    <color name="_27illustration">#CCD9B8</color>
+    <color name="_28illustration">#21260F</color>
+    <color name="_29illustration">#F27F3D</color>
+    <color name="_30illustration">#F26D3D</color>
+
+</resources>
